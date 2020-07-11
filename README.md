@@ -9,7 +9,7 @@ Incorporated the Flask application to present data to key stakeholders using 5 r
 5. Statistics
 
 ## Challenge: Find Oahu's seasonal weather data 
-# The goals of this challenge:
+### The goals of this challenge:
 1. Determine key statistical data about the month of June and December
 2. Compare findings between both months
 3. Give 2-3 Recommendations for further analysis.
