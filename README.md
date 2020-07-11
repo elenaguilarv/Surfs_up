@@ -1,7 +1,7 @@
 # Surfs_up
 Performing a climate analysis using SQLAlchemy, SQLite and Flask
 
-Incorporated the Flask application to present data to key stakeholders using 5 route pathways to describe data results:
+Incorporated the Flask application to present data to key stakeholders using 5 route pathways to describe weather patterns in Oahu:
 1. Welcome
 2. Precipitation
 3. Stations
