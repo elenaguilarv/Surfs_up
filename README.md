@@ -14,12 +14,10 @@ Incorporate the Flask application and use 5 route pathways to guide and present 
 ## Key Statistical Data: June and December Months
 ### *(all stations and years)*
 #### Rain Patterns
-<img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/june_rain.png" width="400" height="300">
-<img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/december_rain.png" width="400" height="300">
+<img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/june_rain.png" width="400" height="300"> <img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/december_rain.png" width="400" height="300">
 
 #### Average Temperatures
-<img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/june_temp.png" width="400" height="300">
-<img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/december_temp.png" width="400" height="300">
+<img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/june_temp.png" width="400" height="300"> <img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/december_temp.png" width="400" height="300">
 
 
 
