@@ -12,7 +12,7 @@ Created five route pathways using the Flask application to guide and present key
 4. Share findings in Jupyter Notebook.
 
 ## Key Statistical Data: June and December Months *(all stations and years)*
-#### June (left) and December (right) statistics
+#### Statistics for June (left) and December (right)
 
 ![image](https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/June_stats.PNG) ![image](https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/Dec_stats.PNG)
 
@@ -22,10 +22,8 @@ Created five route pathways using the Flask application to guide and present key
 #### Average Temperatures
 <img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/june_temp.png" width="400" height="300"> <img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/december_temp.png" width="400" height="300">
 
-
-
-
 ### Recommendations
-1. Expand the analysis further-- the weather statistics needs to be made across a wider range of months and not be so absolute (only June and December). Seasons and flow of travel and tourism across a year is not isolated to only two months out of the year.
-2. When the data for June or December for all stations and years is filtered and viewed, it is missing certain days of recorded values. A good task to further verify any chance of errors or discrepancies in the results is to check how many recordings are missing by date. 
-3. Route presentations should aim to be more visually stimulating. Import graphs and clean tables, not lists or dictionaries.
+1. Comparing June and December findings: December months tend to have slightly more rain than June months. The months of June tend to have higher temperatures as well. But generally the data is very similar and proves to be a good place for surf/ice cream shop.
+2. There is a need to expand the analysis further to show the weather statistics across a wider range of months. Showing results for only June and December is very absolute  or fixed, and climate patterns or seasonal activity is highly distributed and the flow of travel and tourism across a year should not be isolated to only two months out of the year.
+3. June and December data for all stations and years is missing certain days of recorded values. In order to further analyze results it is important to count how many recordings are missing by date. 
+4. Route presentations should aim to be more visually stimulating. Importing graphs and clean tables, instead of lists or dictionaries to make the data more comprehensible to key stakeholders. 
