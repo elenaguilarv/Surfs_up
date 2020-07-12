@@ -1,7 +1,7 @@
 # Surfs_up
 Performing a climate analysis using SQLAlchemy, SQLite and Flask
 
-Incorporate the Flask application and use 5 route pathways to guide and present key stakeholders data that describe weather patterns in Oahu:
+Created five route pathways using the Flask application to guide and present key stakeholders data that describe weather patterns in Oahu:
 1. Welcome | 2. Precipitation | 3. Stations | 4. Monthly Temperature | 5. Weather Statistics (choosing a start and end date)
 
 ## Challenge: Find Oahu's seasonal weather data 
@@ -11,9 +11,12 @@ Incorporate the Flask application and use 5 route pathways to guide and present 
 3. Give 2-3 Recommendations for further analysis.
 4. Share findings in Jupyter Notebook.
 
-## Key Statistical Data: June and December Months
-### *(all stations and years)*
-#### Rain Patterns
+## Key Statistical Data: June and December Months *(all stations and years)*
+#### June (left) and December (right) statistics
+
+![image](https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/June_stats.PNG) ![image](https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/Dec_stats.PNG)
+
+#### Rain Patterns 
 <img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/june_rain.png" width="400" height="300"> <img src="https://github.com/elenaguilarv/Surfs_up/blob/master/hist_graphs/december_rain.png" width="400" height="300">
 
 #### Average Temperatures
